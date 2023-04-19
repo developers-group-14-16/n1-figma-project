@@ -1,0 +1,51 @@
+.abdulaziz{
+    padding: 5%;
+}
+.nurikot h4{
+    color: gray;
+    margin-top: 10px;
+}
+.abdulaziz{
+    display: flex;
+    justify-content: space-between;
+}
+.abdil{
+    display: flex;
+}
+.abdil h4{
+    margin-left: 90px;
+}
+.abdil ul{
+    list-style: none;
+    margin-left: 50px;
+    display: grid;
+    grid-gap: 30px;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    margin-top: 10px;
+}
+.abu{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.abi1{
+    display: flex;
+    margin-right: 20px;
+}
+.abi1 p{
+    margin-right: 20px;
+}
+.abi1 button{
+    width: 100px;
+    border: 2px solid black;
+    background-color: #fff;
+    border-radius: 5px;
+    height: 40px;
+}
+.abu p{
+    margin-top: 5px;
+}
